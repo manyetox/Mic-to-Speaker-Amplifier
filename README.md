@@ -7,8 +7,9 @@ This project combines a microphone front end, an **MCP6281 preamplifier**, adjus
 The repository contains the editable KiCad design and production-ready V1.1 Gerber files. A physical prototype has also been assembled.
 
 <!-- Add your photo as Media/circuit-photo.jpg, then remove this comment marker:
-![Assembled microphone amplifier](Media/circuit-photo.jpg)
+![Assembled microphone amplifier](Media/circuit-photo.jpeg)
 -->
+[Assembled microphone amplifier](Media/circuit-photo.jpeg
 
 > **Status:** PCB designed and manufactured; prototype photo available  
 > **Input supply:** Regulated 5 V  
